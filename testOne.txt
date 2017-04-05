@@ -1,0 +1,15 @@
+.data
+0 1 2 3 4 5
+.text
+push 0
+push 1
+push 2
+push 3
+push 4
+push 5
+add
+add
+add
+add
+add
+pop 0
